@@ -1,0 +1,21 @@
+{
+  "name": "apidevelepment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "database_conn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nayan Tank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.2.10",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
